@@ -14,6 +14,8 @@ All datawrangling for now happens in the ipython notebook
 
 ## TODO
 
-- [] links to datasets updater as script
-- [] datasets merger/wrangler as script
-- [] resampling as a script
+- [ ] links to datasets updater as script
+- [X] get data to srcipt
+	- [ ] set default folder to pwd
+- [ ] datasets merger/wrangler as script
+- [ ] resampling as a script
